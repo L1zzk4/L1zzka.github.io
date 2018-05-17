@@ -1,0 +1,26 @@
+
+IndexedDB/file__0.indexeddb.leveldb/000003.log
+IndexedDB/file__0.indexeddb.leveldb/CURRENT
+.gitattributes
+Cache/data_0
+Cache/data_2
+Cache/data_1
+Cache/data_3
+Cache/index
+databases/Databases.db
+databases/Databases.db-journal
+GPUCache/data_0
+GPUCache/data_1
+GPUCache/data_2
+GPUCache/data_3
+GPUCache/index
+IndexedDB/file__0.indexeddb.leveldb/LOCK
+IndexedDB/file__0.indexeddb.leveldb/LOG
+IndexedDB/file__0.indexeddb.leveldb/MANIFEST-000001
+Local Storage/file__0.localstorage
+Local Storage/file__0.localstorage-journal
+lockfile
+logs/2018-05-17.desktop.production.log
+Preferences
+QuotaManager
+QuotaManager-journal
